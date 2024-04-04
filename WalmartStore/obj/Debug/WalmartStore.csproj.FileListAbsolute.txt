@@ -1,0 +1,7 @@
+C:\Users\samah\source\repos\WalmartStore\WalmartStore\bin\Debug\WalmartStore.exe.config
+C:\Users\samah\source\repos\WalmartStore\WalmartStore\bin\Debug\WalmartStore.exe
+C:\Users\samah\source\repos\WalmartStore\WalmartStore\bin\Debug\WalmartStore.pdb
+C:\Users\samah\source\repos\WalmartStore\WalmartStore\obj\Debug\WalmartStore.csproj.AssemblyReference.cache
+C:\Users\samah\source\repos\WalmartStore\WalmartStore\obj\Debug\WalmartStore.csproj.CoreCompileInputs.cache
+C:\Users\samah\source\repos\WalmartStore\WalmartStore\obj\Debug\WalmartStore.exe
+C:\Users\samah\source\repos\WalmartStore\WalmartStore\obj\Debug\WalmartStore.pdb
